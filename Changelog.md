@@ -4,3 +4,4 @@
 - Added Level System
 - Added Furnace Speed System (Will decrease the time it takes to melt something in a furnace)
 - Added Journey Map
+- Added Thermal Dynamics
