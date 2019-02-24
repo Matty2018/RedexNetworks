@@ -15,7 +15,7 @@ Tutorial
 8) Enjoy
 
 --OTHER--
-All mods are in a queue. To view this go here - https://docs.google.com/spreadsheets/d/1qjY2-bKqRhCq9r_ewEKkIbaL7KMCKuoC7PkUHRa0x5I/edit#gid=1386834576
+All mods are in a queue. To view this go here - https://docs.google.com/spreadsheets/d/1qjY2-bKqRhCq9r_ewEKkIbaL7KMCKuoC7PkUHRa0x5I/edit?usp=sharing
 
 Thanks
 Matty (Owner)
