@@ -14,6 +14,9 @@ Tutorial
 7) Launch and connect to the server here - 	193.70.81.33:25601
 8) Enjoy
 
+--OTHER--
+All mods are in a queue. To view this go here - https://docs.google.com/spreadsheets/d/1qjY2-bKqRhCq9r_ewEKkIbaL7KMCKuoC7PkUHRa0x5I/edit#gid=1386834576
+
 Thanks
 Matty (Owner)
 
