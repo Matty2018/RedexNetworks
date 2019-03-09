@@ -1,4 +1,4 @@
-# RedexNetworks
+# TeamVector
 Hello Member!
 I have released a minecraft mods server which requires forge. Forge is a modded version of minecraft. Im guessing you are reading this because you don't know what you are doing with the mods.
 
@@ -11,14 +11,11 @@ Tutorial
 5) Take the mods from there and place them in your mods folder for minecraft
 6) Open minecraft and select forge launch option
 	You can do this by pressing the Up arrow next to the game version
-7) Launch and connect to the server here - 	193.70.81.33:25601
+7) Launch and connect to the server here - 193.70.81.33:25601
 8) Enjoy
 
 --OTHER--
-
-All mods are in a queue. To view this go here - https://docs.google.com/spreadsheets/d/1qjY2-bKqRhCq9r_ewEKkIbaL7KMCKuoC7PkUHRa0x5I/edit?usp=sharing
-
 Thanks
 Matty (Owner)
 
-Copyright Redexnetworks 2019
+Copyright TeamVector 2019
